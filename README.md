@@ -65,6 +65,7 @@
 - [网关与 fallback 链：挂了自动换，还得连得上](chapters/02-02-gateway.md)
 - [并发闸门：把「无感降级」换成「看得见的排队」](chapters/02-03-concurrency.md)
 - [弱模型护栏：让最坏情况也体面、可恢复](chapters/02-04-weak-model-guards.md)
+- [模型是体验的地板：BYOK 优先，免费只作内测通道](chapters/02-05-byok-first.md)
 
 **三 · 为专业领域设计工具**
 
